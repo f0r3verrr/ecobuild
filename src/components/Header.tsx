@@ -17,7 +17,6 @@ export const Header = () => {
     { label: "О продукте", id: "about" },
     { label: "Преимущества", id: "advantages" },
     { label: "Тесты и сертификаты", id: "tests" },
-    { label: "Кейсы", id: "cases" },
   ];
 
   return (

@@ -4,7 +4,6 @@ import { About } from "@/components/About";
 import { Advantages } from "@/components/Advantages";
 import { EcoRating } from "@/components/EcoRating";
 import { Tests } from "@/components/Tests";
-import { Cases } from "@/components/Cases";
 import { Footer } from "@/components/Footer";
 
 const Index = () => {
@@ -17,7 +16,6 @@ const Index = () => {
         <Advantages />
         <EcoRating />
         <Tests />
-        <Cases />
       </main>
       <Footer />
     </div>
